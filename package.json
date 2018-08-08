@@ -1,0 +1,20 @@
+{
+  "name": "billbii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "casual": "^1.5.19",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "wdio": "^2.0.2",
+    "wdio-mocha-framework": "^0.6.2",
+    "wdio-selenium-standalone-service": "0.0.10",
+    "wdio-spec-reporter": "^0.1.5"
+  }
+}
